@@ -1,0 +1,3 @@
+describe('teacher section', function() {
+
+});
